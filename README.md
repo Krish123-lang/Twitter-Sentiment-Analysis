@@ -2,7 +2,7 @@
 
 
 # What this project does?
-This python code is a Sentiment analysis for twitter tweets.
+This python code is a Sentiment analysis for twitter tweets. This code analyze wether the tweets contains happy words or sad words.
 
 ## Installation
 
